@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "835844287617",
+    "project_id": "fireflutter-2a048",
+    "storage_bucket": "fireflutter-2a048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835844287617:android:6faa330a540c3739fab180",
+        "android_client_info": {
+          "package_name": "com.murad.fire.flutter_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835844287617-rg8jo7k3snos2aohik6ajsdn7qcopuqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XJypPy-DjpQhbhPB-6guup4kQS6Pv1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835844287617-rg8jo7k3snos2aohik6ajsdn7qcopuqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835844287617-d5bb6jav92cgehftdij27a9fgauttagi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.murad.firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835844287617:android:3a42fc1728c4dfa3fab180",
+        "android_client_info": {
+          "package_name": "com.murad.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835844287617-rg8jo7k3snos2aohik6ajsdn7qcopuqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XJypPy-DjpQhbhPB-6guup4kQS6Pv1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835844287617-rg8jo7k3snos2aohik6ajsdn7qcopuqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835844287617-d5bb6jav92cgehftdij27a9fgauttagi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.murad.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
